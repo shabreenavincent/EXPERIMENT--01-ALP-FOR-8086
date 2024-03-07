@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name :SHABREENA VINCENT
+
+Roll no : 212222230141
+
+Date of experiment :29.02.2024
 
 
 
@@ -77,31 +79,64 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ## Programs for arithmetic  operations
 
-## Addition  of 8 bit ALP 
+## Addition  of 8 bit ALP
+```
+MOV al,34h
 
+MOV bl,64h
 
+ADD al,bl
+
+hlt
+```
 
 ## Output  
- 
+![Screenshot (119)](https://github.com/premalatha-sureshbabu/EXPERIMENT--01-ALP-FOR-8086/assets/120620842/1d91385b-c016-4b03-804e-11266b943a8c)
+
+
 ## Subtraction   of 8 bit numbers  ALP 
- 
+```
+ MOV al,34h
+
+MOV bl,64h
+
+SUB al,bl
+
+hlt
+```
 ## Output  
+![Screenshot (118)](https://github.com/premalatha-sureshbabu/EXPERIMENT--01-ALP-FOR-8086/assets/120620842/44aae6ea-75b0-42be-8ab2-a21c7763a31c)
+
+
 ## Multiplication alp 
+```
+MOV al,34h
+
+MOV bl,64h
+
+MUL bl
+
+hlt
+```
  ## Output  
+![Screenshot (120)](https://github.com/premalatha-sureshbabu/EXPERIMENT--01-ALP-FOR-8086/assets/120620842/fc936421-62e1-415e-9051-41eb9fb68b1f)
+
 
 
 ## Division alp 
+```
+MOV al,34h
 
+MOV bl,64h
+
+DIV bl
+
+hlt
+
+```
 ## Output  
+![Screenshot (121)](https://github.com/premalatha-sureshbabu/EXPERIMENT--01-ALP-FOR-8086/assets/120620842/18abc629-024c-4bd6-a4c4-c64ceec3f216)
 
 
 ## Result :
- 
-
-
-
-
-
-
-
-
+ Thus to Write and execute ALP on fundamental arithmetic and logical operations are verified successfully.
